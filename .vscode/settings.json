@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/5aa70399-9a5e-46f5-8f50-c306d7adfd25/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/api-cliente-bibliotecatasd",
+    "appService.deploySubpath": "."
+}
